@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="finapprove-banner.png"
+       alt="FinApprove AI Banner"
+       width="100%">
+</p>
+
 # FinApprove AI
 
 An end-to-end Machine Learning and Full-Stack Web Application for evaluating and predicting loan approval outcomes in real time using a tuned K-Nearest Neighbors (KNN) classifier.
