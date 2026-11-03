@@ -1,4 +1,4 @@
-# Loan Approval Prediction System
+# FinApprove AI
 
 An end-to-end Machine Learning and Full-Stack Web Application for evaluating and predicting loan approval outcomes in real time using a tuned K-Nearest Neighbors (KNN) classifier.
 
