@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="finapprove-banner.png"
+  <img src="FinApprove AI_ Smarter Loan Decisions.png"
        alt="FinApprove AI Banner"
        width="100%">
 </p>
